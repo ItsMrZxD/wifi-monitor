@@ -2,8 +2,8 @@
 
 A local web page that shows the Wi-Fi networks around a Windows PC, their signal strength, and how crowded each channel is.
 
-<!-- screenshot goes here: ![Wi-Fi Monitor](docs/screenshot.png) (blur network names first) -->
-*Screenshot coming soon.*
+![Wi-Fi Monitor showing signal history, channel crowding and a list of nearby networks](docs/screenshot.png)
+*Shown with made-up sample networks.*
 
 ## What it does
 
